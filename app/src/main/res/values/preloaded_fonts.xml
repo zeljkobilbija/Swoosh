@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Zeljko Bilbija Copyright (c) 2019.  All rights reserved
+  -->
+
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/montserrat</item>
+    </array>
+</resources>

@@ -1,0 +1,6 @@
+/*
+ * Zeljko Bilbija Copyright (c) 2019.  All rights reserved
+ */
+
+include ':app'
+rootProject.name='Swoosh'
